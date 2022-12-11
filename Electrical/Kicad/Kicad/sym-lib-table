@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Lib/Eclectronics.kicad_sym")(options "")(descr ""))
+  (lib (name "SnapEDA")(type "Legacy")(uri "${KIPRJMOD}/../SnapEDA-Library/SnapEDA-Library.lib")(options "")(descr ""))
+  (lib (name "MCP73831T")(type "Legacy")(uri "${KIPRJMOD}/../MCP73831T/2022-10-25_20-02-46.lib")(options "")(descr ""))
+)

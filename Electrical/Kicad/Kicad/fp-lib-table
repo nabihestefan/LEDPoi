@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Eclectronics")(type "KiCad")(uri "${KIPRJMOD}/../Lib/Eclectronics.pretty")(options "")(descr ""))
+  (lib (name "SnapEDA")(type "KiCad")(uri "${KIPRJMOD}/../SnapEDA-Library/Footprints.pretty")(options "")(descr ""))
+  (lib (name "MCP")(type "KiCad")(uri "${KIPRJMOD}/../MCP73831T/footprints.pretty")(options "")(descr ""))
+)
